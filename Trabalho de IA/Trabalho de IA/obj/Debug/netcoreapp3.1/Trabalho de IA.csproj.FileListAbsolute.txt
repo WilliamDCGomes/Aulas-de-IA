@@ -1,0 +1,13 @@
+C:\Users\willi\Desktop\Trabalho de IA\Trabalho de IA\bin\Debug\netcoreapp3.1\Trabalho de IA.exe
+C:\Users\willi\Desktop\Trabalho de IA\Trabalho de IA\bin\Debug\netcoreapp3.1\Trabalho de IA.deps.json
+C:\Users\willi\Desktop\Trabalho de IA\Trabalho de IA\bin\Debug\netcoreapp3.1\Trabalho de IA.runtimeconfig.json
+C:\Users\willi\Desktop\Trabalho de IA\Trabalho de IA\bin\Debug\netcoreapp3.1\Trabalho de IA.runtimeconfig.dev.json
+C:\Users\willi\Desktop\Trabalho de IA\Trabalho de IA\bin\Debug\netcoreapp3.1\Trabalho de IA.dll
+C:\Users\willi\Desktop\Trabalho de IA\Trabalho de IA\bin\Debug\netcoreapp3.1\Trabalho de IA.pdb
+C:\Users\willi\Desktop\Trabalho de IA\Trabalho de IA\obj\Debug\netcoreapp3.1\Trabalho de IA.csprojAssemblyReference.cache
+C:\Users\willi\Desktop\Trabalho de IA\Trabalho de IA\obj\Debug\netcoreapp3.1\Trabalho de IA.csproj.CoreCompileInputs.cache
+C:\Users\willi\Desktop\Trabalho de IA\Trabalho de IA\obj\Debug\netcoreapp3.1\Trabalho de IA.AssemblyInfoInputs.cache
+C:\Users\willi\Desktop\Trabalho de IA\Trabalho de IA\obj\Debug\netcoreapp3.1\Trabalho de IA.AssemblyInfo.cs
+C:\Users\willi\Desktop\Trabalho de IA\Trabalho de IA\obj\Debug\netcoreapp3.1\Trabalho de IA.dll
+C:\Users\willi\Desktop\Trabalho de IA\Trabalho de IA\obj\Debug\netcoreapp3.1\Trabalho de IA.pdb
+C:\Users\willi\Desktop\Trabalho de IA\Trabalho de IA\obj\Debug\netcoreapp3.1\Trabalho de IA.genruntimeconfig.cache
