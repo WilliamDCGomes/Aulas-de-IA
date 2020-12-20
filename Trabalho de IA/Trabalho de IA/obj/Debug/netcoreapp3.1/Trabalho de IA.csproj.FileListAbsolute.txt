@@ -11,3 +11,16 @@ C:\Users\willi\Desktop\Trabalho de IA\Trabalho de IA\obj\Debug\netcoreapp3.1\Tra
 C:\Users\willi\Desktop\Trabalho de IA\Trabalho de IA\obj\Debug\netcoreapp3.1\Trabalho de IA.dll
 C:\Users\willi\Desktop\Trabalho de IA\Trabalho de IA\obj\Debug\netcoreapp3.1\Trabalho de IA.pdb
 C:\Users\willi\Desktop\Trabalho de IA\Trabalho de IA\obj\Debug\netcoreapp3.1\Trabalho de IA.genruntimeconfig.cache
+D:\Programing\Aulas de IA\Trabalho de IA\Trabalho de IA\bin\Debug\netcoreapp3.1\Trabalho de IA.exe
+D:\Programing\Aulas de IA\Trabalho de IA\Trabalho de IA\bin\Debug\netcoreapp3.1\Trabalho de IA.deps.json
+D:\Programing\Aulas de IA\Trabalho de IA\Trabalho de IA\bin\Debug\netcoreapp3.1\Trabalho de IA.runtimeconfig.json
+D:\Programing\Aulas de IA\Trabalho de IA\Trabalho de IA\bin\Debug\netcoreapp3.1\Trabalho de IA.runtimeconfig.dev.json
+D:\Programing\Aulas de IA\Trabalho de IA\Trabalho de IA\bin\Debug\netcoreapp3.1\Trabalho de IA.dll
+D:\Programing\Aulas de IA\Trabalho de IA\Trabalho de IA\bin\Debug\netcoreapp3.1\Trabalho de IA.pdb
+D:\Programing\Aulas de IA\Trabalho de IA\Trabalho de IA\obj\Debug\netcoreapp3.1\Trabalho de IA.csprojAssemblyReference.cache
+D:\Programing\Aulas de IA\Trabalho de IA\Trabalho de IA\obj\Debug\netcoreapp3.1\Trabalho de IA.csproj.CoreCompileInputs.cache
+D:\Programing\Aulas de IA\Trabalho de IA\Trabalho de IA\obj\Debug\netcoreapp3.1\Trabalho de IA.AssemblyInfoInputs.cache
+D:\Programing\Aulas de IA\Trabalho de IA\Trabalho de IA\obj\Debug\netcoreapp3.1\Trabalho de IA.AssemblyInfo.cs
+D:\Programing\Aulas de IA\Trabalho de IA\Trabalho de IA\obj\Debug\netcoreapp3.1\Trabalho de IA.dll
+D:\Programing\Aulas de IA\Trabalho de IA\Trabalho de IA\obj\Debug\netcoreapp3.1\Trabalho de IA.pdb
+D:\Programing\Aulas de IA\Trabalho de IA\Trabalho de IA\obj\Debug\netcoreapp3.1\Trabalho de IA.genruntimeconfig.cache

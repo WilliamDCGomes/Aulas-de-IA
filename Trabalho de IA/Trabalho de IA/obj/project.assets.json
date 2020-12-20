@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\willi\\Desktop\\Trabalho de IA\\Trabalho de IA\\Trabalho de IA.csproj",
+      "projectUniqueName": "D:\\Programing\\Aulas de IA\\Trabalho de IA\\Trabalho de IA\\Trabalho de IA.csproj",
       "projectName": "Trabalho de IA",
-      "projectPath": "C:\\Users\\willi\\Desktop\\Trabalho de IA\\Trabalho de IA\\Trabalho de IA.csproj",
+      "projectPath": "D:\\Programing\\Aulas de IA\\Trabalho de IA\\Trabalho de IA\\Trabalho de IA.csproj",
       "packagesPath": "C:\\Users\\willi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\willi\\Desktop\\Trabalho de IA\\Trabalho de IA\\obj\\",
+      "outputPath": "D:\\Programing\\Aulas de IA\\Trabalho de IA\\Trabalho de IA\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\willi\\AppData\\Roaming\\NuGet\\NuGet.Config",
